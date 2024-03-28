@@ -12,11 +12,14 @@ This project aims to longitudinally investigate the association between (a) mate
 
 **Main objectives**
 
-> **Objective 1** | To evaluate if peripheral blood inflammatory and neuroimmune markers measured in pregnant women living with HIV and children who are HEU at different time points (6 weeks, 24, 36, 60, and 72 months) are associated with brain metabolite levels and neurodevelopmental outcomes in these children (a) at age 2-3 years, and/or (b) at age 6-7 years, and if these associations differ from those seen in HIV-unexposed children.
+*Objective 1*
+> To evaluate if peripheral blood inflammatory and neuroimmune markers measured in pregnant women living with HIV and children who are HEU at different time points (6 weeks, 24, 36, 60, and 72 months) are associated with brain metabolite levels and neurodevelopmental outcomes in these children (a) at age 2-3 years, and/or (b) at age 6-7 years, and if these associations differ from those seen in HIV-unexposed children.
 
-> **Objective 2** | To evaluate if peripheral blood inflammatory and neuroimmune markers measured in pregnant women living with HIV and children who are HEU at different time points are associated with white matter microstructural measurements and neurodevelopmental outcomes in these participants (a) at age 2-3 years, and/or (b) at age 6-7 years, and if these associations differ from those seen in HIV-unexposed children.
+*Objective 2*
+> To evaluate if peripheral blood inflammatory and neuroimmune markers measured in pregnant women living with HIV and children who are HEU at different time points are associated with white matter microstructural measurements and neurodevelopmental outcomes in these participants (a) at age 2-3 years, and/or (b) at age 6-7 years, and if these associations differ from those seen in HIV-unexposed children.
 
-> **Objective 3** | To explore if peripheral inflammatory and neuroimmune biomarker trajectories in mothers who are living with HIV and children who are HEU are associated with longitudinal trajectories of (a) brain metabolite levels, (b) white matter microstructural measurements, and/or (c) neurodevelopmental outcomes in these children, from 6 weeks* to 6 years of age, and if these associations differ from those seen in HIV-unexposed children.
+*Objective 3*
+> To explore if peripheral inflammatory and neuroimmune biomarker trajectories in mothers who are living with HIV and children who are HEU are associated with longitudinal trajectories of (a) brain metabolite levels, (b) white matter microstructural measurements, and/or (c) neurodevelopmental outcomes in these children, from 6 weeks* to 6 years of age, and if these associations differ from those seen in HIV-unexposed children.
 
 **Secondary objectives**
 
