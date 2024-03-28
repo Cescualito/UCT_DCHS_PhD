@@ -29,4 +29,4 @@ This project aims to longitudinally investigate the association between (a) mate
 
 ## Open Science Framework
 
-This PhD project has been registered to OSF under the identifier: DOI 10.17605/OSF.IO/SN6Y9
+This PhD project has been registered in OSF under the identifier: DOI 10.17605/OSF.IO/SN6Y9
