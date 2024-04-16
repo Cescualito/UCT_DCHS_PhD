@@ -2,7 +2,7 @@
 
 ## Open Science Framework
 
-This PhD project has been registered in OSF under the identifier: [DOI 10.17605/OSF.IO/SN6Y9]([https://www.uab.cat/](https://osf.io/sn6y9/))
+This PhD project has been registered in OSF under the identifier: [DOI 10.17605/OSF.IO/SN6Y9](https://osf.io/sn6y9/)
 
 ## Purpose of the study
 
