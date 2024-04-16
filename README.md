@@ -1,5 +1,9 @@
 # Early life neuroimmune mechanisms underlying neurodevelopmental outcomes of South African children who are HIV-exposed and uninfected: A longitudinal neuroimaging and neuroinflammatory biomarkers study.
 
+## Open Science Framework
+
+This PhD project has been registered in OSF under the identifier: [DOI 10.17605/OSF.IO/SN6Y9]([https://www.uab.cat/](https://osf.io/sn6y9/))
+
 ## Purpose of the study
 
 The intersection of HIV exposure and neurodevelopmental outcomes in children remains a critical area requiring comprehensive investigation. People living with HIV, including pregnant women, can experience episodes of immune dysregulation even with antiretroviral treatment. An aberrant immune regulation can also be observed in HIV-exposed and uninfected (HEU) children. Immune alterations during pregnancy and early life have the potential to impact the developing brain, leading to neurodevelopmental delays in the early years of life. As the immune system plays a crucial role in brain development, any perturbations during the critical period from conception to 5 years of age might have lasting consequences on cognitive and behavioural outcomes in children who are HEU. 
@@ -26,7 +30,3 @@ This project aims to longitudinally investigate the association between (a) mate
 > To examine whether the relationship between HIV exposure, peripheral blood biomarker levels, neurometabolite levels, and white matter microstructure measurements in children who are HEU from 6 weeks to 6 years of age (combined) predict neurodevelopmental outcomes in this group.
 
 > To assess a potential mediating effect of peripheral blood biomarker levels, neurometabolite levels, and/or white matter microstructure measurements, in the cause-effect relationship between HIV exposure and neurodevelopmental outcomes in children who are HEU, from 6 weeks to 6 years of age.
-
-## Open Science Framework
-
-This PhD project has been registered in OSF under the identifier: DOI 10.17605/OSF.IO/SN6Y9
